@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 我
     link: /
-  - title: 科研 Research
+  - title: 爱
     link: /research.html
-  - title: 论文 Publications
+  - title: 钟仪婷
     link: /publications.html
